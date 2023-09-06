@@ -1,5 +1,3 @@
-![kube-hunter](https://github.com/khulnasoft/kube-hunter/blob/main/kube-hunter.png)
-
 [![GitHub Release][release-img]][release]
 ![Downloads][download]
 ![Docker Pulls][docker-pull]
@@ -23,7 +21,6 @@ _If you're interested in kube-hunter's integration with the Kubernetes ATT&CK Ma
 
 **Contribute**: We welcome contributions, especially new hunter modules that perform additional tests. If you would like to develop your modules please read [Guidelines For Developing Your First kube-hunter Module](https://github.com/khulnasoft/kube-hunter/blob/main/CONTRIBUTING.md).
 
-[![kube-hunter demo video](https://github.com/khulnasoft/kube-hunter/blob/main/kube-hunter-screenshot.png)](https://youtu.be/s2-6rTkH8a8?t=57s)
 
 Table of Contents
 =================
