@@ -60,7 +60,6 @@ You can think of kube-hunter vulnerabilities as small steps for an attacker, whi
 Most of kube-hunter's hunters and vulnerabilities can closly fall under those techniques, That's why we moved to follow the Matrix standard.  
  
 _Some kube-hunter vulnerabities which we could not map to Mitre technique, are prefixed with the `General` keyword_ 
-![kube-hunter](./MITRE.png)
 
 ## Hunting
 ### Where should I run kube-hunter?
